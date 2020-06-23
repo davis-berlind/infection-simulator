@@ -2,7 +2,7 @@
 
 This repository contains my final project for STOR-672: Simulation Modeling and Analysis, a course I took with
 Dr. Mariana Olvera-Cravioto at the University of North Carolina in Spring 2020. The report in this repo
-[Final Project.pdf](Final Project.pdf) describes a continuous-time model for simulating the spread of disease
+[STOR-672-final-project.pdf](STOR-672-final-project.pdf) describes a continuous-time model for simulating the spread of disease
 through a graph network. The parameters of the model are selected to mimic the conditions of the spread of
 COVID-19 in a small city. Multiple experiments are conducted to test the effect of social distancing on slowing
 the spread of disease.
