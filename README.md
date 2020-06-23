@@ -1,5 +1,4 @@
 # Simulating the Spread of an Infection through Networks
-======
 
 This repository contains my final project for STOR-672: Simulation Modeling and Analysis, a course I took with Dr. Mariana Olvera-Cravioto
 at the University of North Carolina in Spring 2020. The report in this repo `Final Project.pdf` describes a continuous-time model for 
